@@ -1,0 +1,40 @@
+ Volume in drive E is Data
+ Volume Serial Number is 8C09-EA3A
+
+ Directory of E:\Data\Pyladies\04\procviceni\prezencka
+
+05. 04. 2017  20:22    <DIR>          .
+05. 04. 2017  20:22    <DIR>          ..
+05. 04. 2017  20:16                 6 andrea.txt
+05. 04. 2017  20:16                16 dolente.txt
+05. 04. 2017  20:16                11 Hanka.txt
+05. 04. 2017  20:16                18 Iveta_Z.txt
+05. 04. 2017  20:16                42 ivouni.txt
+05. 04. 2017  20:16                26 juli.txt
+05. 04. 2017  20:16                11 katarzyna_sycz.txt
+05. 04. 2017  20:16                 4 katerina.txt
+05. 04. 2017  20:16                 0 katka.txt
+05. 04. 2017  20:16                19 leona.txt
+05. 04. 2017  20:16            35ÿ815 LICENSE
+05. 04. 2017  20:16                21 lucie.txt
+05. 04. 2017  20:16                18 lucie.zemanova.txt
+05. 04. 2017  20:16                 0 lucie_bastova.txt
+05. 04. 2017  20:16                15 lucie_kurkova.txt
+05. 04. 2017  20:22                 0 lucka.txt
+05. 04. 2017  20:16                 0 marketka.txt
+05. 04. 2017  20:16                 0 matej.txt
+05. 04. 2017  20:16                33 nora_koranova.txt
+05. 04. 2017  20:16                16 olga_vinduskova.txt
+05. 04. 2017  20:16                16 oskar.txt
+05. 04. 2017  20:16                 0 Pavluse.txt
+05. 04. 2017  20:16                 0 Petra.txt
+05. 04. 2017  20:16                 7 radka_plankova.txt
+05. 04. 2017  20:16                79 README.md
+05. 04. 2017  20:16                20 Silva.txt
+05. 04. 2017  20:16                 8 stepanka.txt
+05. 04. 2017  20:16                13 TerezaKS.txt
+05. 04. 2017  20:16                 6 tereza_mikulasova.txt
+05. 04. 2017  20:16                23 vladena_hoffmanova.txt
+05. 04. 2017  20:16                 4 zuzka.txt
+              31 File(s)         36ÿ247 bytes
+               2 Dir(s)  844ÿ015ÿ063ÿ040 bytes free
